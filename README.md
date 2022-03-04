@@ -6,10 +6,8 @@
 
 
 - 🔭 I’m currently working on ... Next js Onboarding Project
-- 🌱 I’m currently learning ... React / Next and lib usage
-- 👯 I’m looking to collaborate on ... Teaching programming
-- 🤔 I’m looking for help with ... Understading Js
-- 💬 Ask me about ... anything
+- 🌱 I’m currently learning ... React / Next Js / Emotion / Styled Components / Material UI / Css 
+- 
 - 📫 How to reach me: ... by e-mail
 - 😄 Pronouns: ... She
-- ⚡ Fun fact: ... I'm learning roolingblading
+- ⚡ Builded in Next js and TypesCript. Hosted on Vercel - weather forecast application: https://weather-forecast-next-js.vercel.app/
