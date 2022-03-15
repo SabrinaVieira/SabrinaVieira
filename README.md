@@ -10,4 +10,4 @@
 - 
 - 📫 How to reach me: ... by e-mail
 - 😄 Pronouns: ... She
-- ⚡ Builded in Next js and TypesCript. Hosted on Vercel - weather forecast application: https://weather-forecast-next-js.vercel.app/
+- ⚡ Builded in Next js and TypesScript. Hosted on Vercel - weather forecast application: https://weather-forecast-next-js.vercel.app/
